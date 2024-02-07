@@ -14,3 +14,11 @@ The initial_population_create function is used to create the initial population 
 The mutation function implements the mutation phase of the genetic algorithm, increasing the diversity of the population by randomly changing two positions in individuals.
 These functions come together to apply the crossover and mutation steps specific to the genetic algorithm, create the initial population and select the best parents. In this way, it is aimed to create an optimal travel route on the determined city coordinates.
 
+3. Screenshots
+![s1](https://github.com/Fadexboss/genetic_algorithm_with_best_short_route/assets/80221984/94d5d66f-d8a8-4c8d-a986-f1f52a9758c5)
+
+
+![s2](https://github.com/Fadexboss/genetic_algorithm_with_best_short_route/assets/80221984/3efe1474-c36a-40ab-a1a1-3d9860c6ece1)
+
+
+
